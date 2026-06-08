@@ -1,4 +1,7 @@
 
+<img width="1536" height="1024" alt="7141016E-E928-483C-AD24-6975A7F9ED77" src="https://github.com/user-attachments/assets/dae5138b-b83a-4582-8981-6953c1023834" />
+
+
 # The Convergence of Network Architectures
 **Architectural Plan: Eliminating Bottlenecks through Local Computing Schemes and Hybrid Infrastructure**
 
